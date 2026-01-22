@@ -1,0 +1,8 @@
+
+{
+  "name": "PowerPlate by FNC",
+  "description": "A nutrition-focused app for identifying Zimbabwean produce and providing healthy recipes and dietary advice.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
